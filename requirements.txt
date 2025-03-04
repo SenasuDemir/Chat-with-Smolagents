@@ -1,0 +1,4 @@
+gradio
+google-genai
+smolagents
+duckduckgo-search
